@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+header {
+    background-color: #eee;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+main {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 8px 15px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#myList {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+footer {
+    text-align: center;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    font-size: 0.8em;
+}
